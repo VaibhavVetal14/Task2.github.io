@@ -1,0 +1,142 @@
+
+.page
+{
+  background-color:#ffe6ff;
+  height:100%;
+  width: 100%;
+  border:8px solid darkblue;
+
+}
+.information
+{
+  background-color:black;
+  height:160px;
+  width:100%;
+  padding:0;
+  margin:0 auto;
+
+}
+.headline
+{
+  padding-left: 350px;
+  padding-top: 60px;
+  font-weight: bolder;
+  font-size: 50px;
+  color:white;
+}
+.tag
+{
+  padding-left: 100px;
+  padding-right: 20px;
+  padding-top: 130px;
+  font-weight: bolder;
+  font-size: 40px;
+  color:black;
+}
+.imag1,img
+{
+  height: 400px;
+  width: 400px;
+  padding-right:180px;
+  border-radius: 100px;
+}
+.section1
+{
+  display: flex;
+}
+.edu
+{
+  padding-left: 1100px;
+  padding-top: 20px;
+  font-weight: bolder;
+  font-size: 18px;
+  color:white;
+}
+.profile
+{
+  padding-top: 20px;
+}
+.mainclass
+{ margin-left:100px;
+  margin-right:78px;
+  background-color:#ddffcc;
+  height:800px;
+  border-radius:50px;
+
+}
+.large_content
+{
+  height:100%;
+  padding-left:200px;
+  padding-right:200px;
+  padding-top:60px;
+  color:red;
+  font-size:20px;
+}
+.section2
+{
+  padding-left:150px;
+  display:flex;
+}
+.section2,img
+{
+  width:500px;
+  height:400px;
+}
+.sectionlast
+{
+  padding-left:200px;
+  display:flex;
+}
+.sectionlast,img
+{
+  width:500px;
+  height:400px;
+}
+.footer
+{
+
+  background:white;
+}
+.copy
+{
+  background: black;
+  color:white;
+}
+.bot
+{
+  margin-top:137px;
+}
+.bott
+{
+display: inline-flex;
+}
+.s1
+{
+  background-color:#ddffcc;
+  width:330px;
+  color:black;
+}
+.s2
+{
+  background: skyblue;
+  color:red;
+  width:330px;
+  font-weight:bolder;
+  font-size: 20px
+}
+.s3
+{
+  background-color:#ddffcc;
+  width:330px;
+  font-weight:bolder;
+  font-size: 20px;
+}
+.s4
+{
+  background: skyblue;
+  font-weight:bolder;
+  font-size: 18px;
+  width:328px;
+  color:red;
+}
